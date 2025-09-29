@@ -21,3 +21,9 @@ Praticar os fundamentos do **Jetpack Compose** e o uso de **layouts simples (Row
 - Implementação em **Kotlin** com **Jetpack Compose**.
 - Interface construída apenas com **Composable Functions**.
 - Boas práticas de nomes e organização do código.
+
+## 🚚 Entrega
+1. Adicione screenshots ou um vídeo do aplicativo funcionando na past **entrega**
+2. Preencha o <a href="https://forms.gle/ytpnh6PRjFaFxcBQ7" target="_blank">formulário contando como foi sua experiência durante o desenvolvimento</a>
+3. Faça o push para o branch criado ao aceitar o assignment
+
